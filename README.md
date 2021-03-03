@@ -2,7 +2,7 @@
 
 Demonstrating golang 
 
-Tutorial page: "https://golang.org/doc/tutorial/call-module-code"
+Tutorial page: "https://golang.org/doc/tutorial/handle-errors"
 
 ## Module path structrure
 
