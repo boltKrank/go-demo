@@ -1,6 +1,6 @@
 # go-demo
 
-demonstrating golang
+Demonstrating golang
 
 Tutorial page: "https://golang.org/doc/tutorial/call-module-code"
 
