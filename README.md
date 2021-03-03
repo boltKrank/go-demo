@@ -2,7 +2,7 @@
 
 Demonstrating golang
 
-Tutorial page: "https://golang.org/doc/tutorial/random-greeting"
+Tutorial page: "https://golang.org/doc/tutorial/greetings-multiple-people"
 
 Practice: "https://www.hackerrank.com/challenges/simple-array-sum/problem"
 
