@@ -1,8 +1,10 @@
 # go-demo
 
-Demonstrating golang 
+Demonstrating golang
 
 Tutorial page: "https://golang.org/doc/tutorial/random-greeting"
+
+Practice: "https://www.hackerrank.com/challenges/simple-array-sum/problem"
 
 ## Module path structrure
 
